@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B3361A8519AE3D3A00BAAD04 /* HTLEntryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B3361A8419AE3D3A00BAAD04 /* HTLEntryViewController.m */; };
 		B38B627E19AD1A8F0065E5F0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B38B627D19AD1A8F0065E5F0 /* Foundation.framework */; };
 		B38B628019AD1A8F0065E5F0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B38B627F19AD1A8F0065E5F0 /* CoreGraphics.framework */; };
 		B38B628219AD1A8F0065E5F0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B38B628119AD1A8F0065E5F0 /* UIKit.framework */; };
@@ -22,6 +23,15 @@
 		B38B629F19AD1A8F0065E5F0 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B38B628319AD1A8F0065E5F0 /* CoreData.framework */; };
 		B38B62A719AD1A8F0065E5F0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B38B62A519AD1A8F0065E5F0 /* InfoPlist.strings */; };
 		B38B62A919AD1A8F0065E5F0 /* HourTimeLoggerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B38B62A819AD1A8F0065E5F0 /* HourTimeLoggerTests.m */; };
+		B38B62B419AD1AC40065E5F0 /* HTLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B38B62B319AD1AC40065E5F0 /* HTLViewController.m */; };
+		B38B62B619AD1B3D0065E5F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B38B62B519AD1B3D0065E5F0 /* Main.storyboard */; };
+		B38B62C619AD527A0065E5F0 /* HTLJob.m in Sources */ = {isa = PBXBuildFile; fileRef = B38B62C519AD527A0065E5F0 /* HTLJob.m */; };
+		B38B62C919AD52FA0065E5F0 /* HTLJobEntries.m in Sources */ = {isa = PBXBuildFile; fileRef = B38B62C819AD52FA0065E5F0 /* HTLJobEntries.m */; };
+		B3CE83F619AED7F200F3253D /* 640x960LI.png in Resources */ = {isa = PBXBuildFile; fileRef = B3CE83F519AED7F200F3253D /* 640x960LI.png */; };
+		B3CE83F819AED87300F3253D /* 640x1136LI.png in Resources */ = {isa = PBXBuildFile; fileRef = B3CE83F719AED87300F3253D /* 640x1136LI.png */; };
+		B3CE83FA19AED87900F3253D /* 120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = B3CE83F919AED87900F3253D /* 120x120.png */; };
+		B3CE83FC19AED87E00F3253D /* 80x80.png in Resources */ = {isa = PBXBuildFile; fileRef = B3CE83FB19AED87E00F3253D /* 80x80.png */; };
+		B3CE83FE19AED88300F3253D /* 58x58.png in Resources */ = {isa = PBXBuildFile; fileRef = B3CE83FD19AED88300F3253D /* 58x58.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B3361A8319AE3D3A00BAAD04 /* HTLEntryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTLEntryViewController.h; sourceTree = "<group>"; };
+		B3361A8419AE3D3A00BAAD04 /* HTLEntryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTLEntryViewController.m; sourceTree = "<group>"; };
 		B38B627A19AD1A8F0065E5F0 /* HourTimeLogger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HourTimeLogger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B38B627D19AD1A8F0065E5F0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B38B627F19AD1A8F0065E5F0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +65,18 @@
 		B38B62A419AD1A8F0065E5F0 /* HourTimeLoggerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HourTimeLoggerTests-Info.plist"; sourceTree = "<group>"; };
 		B38B62A619AD1A8F0065E5F0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B38B62A819AD1A8F0065E5F0 /* HourTimeLoggerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HourTimeLoggerTests.m; sourceTree = "<group>"; };
+		B38B62B219AD1AC40065E5F0 /* HTLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTLViewController.h; sourceTree = "<group>"; };
+		B38B62B319AD1AC40065E5F0 /* HTLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTLViewController.m; sourceTree = "<group>"; };
+		B38B62B519AD1B3D0065E5F0 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		B38B62C419AD527A0065E5F0 /* HTLJob.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTLJob.h; sourceTree = "<group>"; };
+		B38B62C519AD527A0065E5F0 /* HTLJob.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTLJob.m; sourceTree = "<group>"; };
+		B38B62C719AD52FA0065E5F0 /* HTLJobEntries.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTLJobEntries.h; sourceTree = "<group>"; };
+		B38B62C819AD52FA0065E5F0 /* HTLJobEntries.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTLJobEntries.m; sourceTree = "<group>"; };
+		B3CE83F519AED7F200F3253D /* 640x960LI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 640x960LI.png; sourceTree = SOURCE_ROOT; };
+		B3CE83F719AED87300F3253D /* 640x1136LI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 640x1136LI.png; sourceTree = SOURCE_ROOT; };
+		B3CE83F919AED87900F3253D /* 120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120x120.png; sourceTree = SOURCE_ROOT; };
+		B3CE83FB19AED87E00F3253D /* 80x80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80x80.png; sourceTree = SOURCE_ROOT; };
+		B3CE83FD19AED88300F3253D /* 58x58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58x58.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,8 +139,17 @@
 		B38B628519AD1A8F0065E5F0 /* HourTimeLogger */ = {
 			isa = PBXGroup;
 			children = (
+				B38B62B519AD1B3D0065E5F0 /* Main.storyboard */,
 				B38B628E19AD1A8F0065E5F0 /* HTLAppDelegate.h */,
 				B38B628F19AD1A8F0065E5F0 /* HTLAppDelegate.m */,
+				B38B62B219AD1AC40065E5F0 /* HTLViewController.h */,
+				B38B62B319AD1AC40065E5F0 /* HTLViewController.m */,
+				B3361A8319AE3D3A00BAAD04 /* HTLEntryViewController.h */,
+				B3361A8419AE3D3A00BAAD04 /* HTLEntryViewController.m */,
+				B38B62C419AD527A0065E5F0 /* HTLJob.h */,
+				B38B62C519AD527A0065E5F0 /* HTLJob.m */,
+				B38B62C719AD52FA0065E5F0 /* HTLJobEntries.h */,
+				B38B62C819AD52FA0065E5F0 /* HTLJobEntries.m */,
 				B38B629419AD1A8F0065E5F0 /* Images.xcassets */,
 				B38B629119AD1A8F0065E5F0 /* HourTimeLogger.xcdatamodeld */,
 				B38B628619AD1A8F0065E5F0 /* Supporting Files */,
@@ -127,6 +160,11 @@
 		B38B628619AD1A8F0065E5F0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B3CE83F719AED87300F3253D /* 640x1136LI.png */,
+				B3CE83F519AED7F200F3253D /* 640x960LI.png */,
+				B3CE83F919AED87900F3253D /* 120x120.png */,
+				B3CE83FD19AED88300F3253D /* 58x58.png */,
+				B3CE83FB19AED87E00F3253D /* 80x80.png */,
 				B38B628719AD1A8F0065E5F0 /* HourTimeLogger-Info.plist */,
 				B38B628819AD1A8F0065E5F0 /* InfoPlist.strings */,
 				B38B628B19AD1A8F0065E5F0 /* main.m */,
@@ -201,6 +239,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "James Payette";
 				TargetAttributes = {
+					B38B627919AD1A8F0065E5F0 = {
+						DevelopmentTeam = XQ2VNF7TD3;
+					};
 					B38B629919AD1A8F0065E5F0 = {
 						TestTargetID = B38B627919AD1A8F0065E5F0;
 					};
@@ -229,8 +270,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3CE83FC19AED87E00F3253D /* 80x80.png in Resources */,
+				B3CE83F619AED7F200F3253D /* 640x960LI.png in Resources */,
+				B3CE83FA19AED87900F3253D /* 120x120.png in Resources */,
+				B3CE83FE19AED88300F3253D /* 58x58.png in Resources */,
 				B38B628A19AD1A8F0065E5F0 /* InfoPlist.strings in Resources */,
+				B3CE83F819AED87300F3253D /* 640x1136LI.png in Resources */,
 				B38B629519AD1A8F0065E5F0 /* Images.xcassets in Resources */,
+				B38B62B619AD1B3D0065E5F0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,9 +296,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B38B62C619AD527A0065E5F0 /* HTLJob.m in Sources */,
 				B38B628C19AD1A8F0065E5F0 /* main.m in Sources */,
+				B38B62B419AD1AC40065E5F0 /* HTLViewController.m in Sources */,
+				B3361A8519AE3D3A00BAAD04 /* HTLEntryViewController.m in Sources */,
 				B38B629019AD1A8F0065E5F0 /* HTLAppDelegate.m in Sources */,
 				B38B629319AD1A8F0065E5F0 /* HourTimeLogger.xcdatamodeld in Sources */,
+				B38B62C919AD52FA0065E5F0 /* HTLJobEntries.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +361,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -368,10 +420,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: James Payette (K5K5U483KZ)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: James Payette (K5K5U483KZ)";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HourTimeLogger/HourTimeLogger-Prefix.pch";
 				INFOPLIST_FILE = "HourTimeLogger/HourTimeLogger-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "62ace167-49b6-462c-b6d3-bd9e2cf4efb2";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -381,10 +439,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: James Payette (XQ2VNF7TD3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: James Payette (XQ2VNF7TD3)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HourTimeLogger/HourTimeLogger-Prefix.pch";
 				INFOPLIST_FILE = "HourTimeLogger/HourTimeLogger-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "62ace167-49b6-462c-b6d3-bd9e2cf4efb2";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -448,6 +511,7 @@
 				B38B62AE19AD1A8F0065E5F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B38B62AF19AD1A8F0065E5F0 /* Build configuration list for PBXNativeTarget "HourTimeLoggerTests" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +520,7 @@
 				B38B62B119AD1A8F0065E5F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
