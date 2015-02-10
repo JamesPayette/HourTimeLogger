@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DBA704EC-29B0-43D0-9025-54829B4C3A3A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HourTimeLogger</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>972CF1CB1F1CA5DA9B6B5739C812E6C5FCB7CE5A</key>
+		<string>https://github.com/JamesPayette/HourTimeLogger.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HourTimeLogger.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>972CF1CB1F1CA5DA9B6B5739C812E6C5FCB7CE5A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JamesPayette/HourTimeLogger.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>972CF1CB1F1CA5DA9B6B5739C812E6C5FCB7CE5A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>972CF1CB1F1CA5DA9B6B5739C812E6C5FCB7CE5A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HourTimeLogger</string>
+		</dict>
+	</array>
+</dict>
+</plist>
